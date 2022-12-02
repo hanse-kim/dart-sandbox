@@ -1,5 +1,7 @@
 import 'package:first_app/first_app.dart' as first_app;
 
+import 'variables.dart';
+
 void main(List<String> arguments) {
-  print('Hello world: ${first_app.calculate()}!');
+  variable();
 }
